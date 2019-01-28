@@ -8,4 +8,5 @@ public class Student {
 	@GeneratedValue
 	private Long id;
 	private String name;
-	private String passportNumber;}
+	private String passportNumber;
+}
